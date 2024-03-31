@@ -1,7 +1,7 @@
 ### Hi there 👋
 ## My Name is Mohamad Alief Rizky Ramadhan
 <hr />
-![]("https://tenor.com/view/hololive-%E3%83%9B%E3%83%AD%E3%83%A9%E3%82%A4%E3%83%96-hologra-%E3%83%9B%E3%83%AD%E3%81%90%E3%82%89-sakura-miko-gif-23707460")
+![](https://tenor.com/view/hololive-%E3%83%9B%E3%83%AD%E3%83%A9%E3%82%A4%E3%83%96-hologra-%E3%83%9B%E3%83%AD%E3%81%90%E3%82%89-sakura-miko-gif-23707460)
 
 
 <!--
