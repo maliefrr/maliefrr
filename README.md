@@ -2,7 +2,7 @@
 ## My Name is Mohamad Alief Rizky Ramadhan
 <hr />
 <div align="center">
-      <img src="https://tenor.com/view/hololive-%E3%83%9B%E3%83%AD%E3%83%A9%E3%82%A4%E3%83%96-hologra-%E3%83%9B%E3%83%AD%E3%81%90%E3%82%89-sakura-miko-gif-23707460" alt="Sakura Miko Wave">
+      <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGQ0dHExaXh5d3E4OGt3eTNxM3p1aWQ4bTE0aTU0ejM5YXk4ZDA3NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/sfEQeNSZWhMw5SnjoI/giphy.gif" alt="Sakura Miko Wave">
 </div>
 
 
