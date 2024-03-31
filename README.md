@@ -31,6 +31,7 @@
 
 ## Github Stats
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=maliefrr&show_icons=true&rank_icon=github&color=black&theme=tokyonight)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maliefrr&theme=tokyonight&layout=compact&langs_count=8)
 
 
