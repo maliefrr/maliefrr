@@ -31,7 +31,7 @@
       <img src="https://img.shields.io/badge/mysql-C74835?logo=mysql&logoColor=FFF&style=for-the-badge" alt="MYSQL Badge">
       <img src="https://img.shields.io/badge/mongo.db-049024?logo=mongodb&logoColor=FFF&style=for-the-badge" alt="Mongo.DB Badge">
       <img src="https://img.shields.io/badge/mongo.db-049024?logo=mongodb&logoColor=FFF&style=for-the-badge" alt="Mongo.DB Badge">
-      <img src="https://img.shields.io/badge/renpy-ed61c3?logo=renpy&logoColor=F5DD5D&style=for-the-badge" alt="Renpy Badge">
+      <img src="https://img.shields.io/badge/renpy-FF7F7F?logo=renpy&logoColor=B5A396&style=for-the-badge" alt="Renpy Badge">
 </div>
 
 ## Github Stats
