@@ -6,8 +6,7 @@
 </div>
 
 ## About Me
-- Technical Support Staff at Electronic Medical Record Company 
-- Freelance Software Engineering
+- Frontend Engineer
 - Graduate from Computer Science at Halu Oleo University
 - Game Developer as a hobby
 - Anime & Vtuber ❤
