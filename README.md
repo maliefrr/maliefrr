@@ -8,7 +8,7 @@
 
 ## 🚀 About Me
 
-I'm a **Software Engineer / Frontend Engineer** with experience building and maintaining production web applications, integrating APIs, and developing full-stack applications.
+I'm a **Software Engineer** with experience building and maintaining production web applications, integrating APIs, and developing full-stack applications.
 
 * 💻 Currently working as a **Frontend Developer**
 * 🌐 Experienced in building production applications with **React, JavaScript, TypeScript, and Node.js**
