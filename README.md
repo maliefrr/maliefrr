@@ -68,14 +68,6 @@ I'm particularly interested in systems where **frontend, backend, and product lo
 
 I enjoy working on problems involving **performance, API design, data flow, automation, and developer experience**.
 
-## 📚 Currently Learning
-
-* ☕ Java & Quarkus
-* 🔷 Advanced TypeScript
-* 🏗️ Backend & system design
-* 🤖 AI / LLM application development
-* 🎮 Game development
-
 ## 📫 Get in Touch
 
 <div align="center">
