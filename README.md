@@ -86,20 +86,6 @@ I enjoy working on problems involving **performance, API design, data flow, auto
 
 </div>
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<a href="https://github.com/maliefrr">
-  <img src="https://github-readme-stats.vercel.app/api?username=maliefrr&show_icons=true&theme=tokyonight&rank_icon=github" alt="GitHub Stats"/>
-</a>
-
-<a href="https://github.com/maliefrr">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maliefrr&theme=tokyonight&layout=compact&langs_count=6" alt="Top Languages"/>
-</a>
-
-</div>
-
 ---
 
 <div align="center">
