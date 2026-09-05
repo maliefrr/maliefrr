@@ -1,6 +1,6 @@
 # 👋 Hi there!
 
-## I'm Mohamad Alief Rizky Ramadhan
+## I'm Moh Alief Rizky Ramadhan
 
 <div align="center">
   <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGQ0dHExaXh5d3E4OGt3eTNxM3p1aWQ4bTE0aTU0ejM5YXk4ZDA3NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/sfEQeNSZWhMw5SnjoI/giphy.gif" alt="Sakura Miko Wave">
