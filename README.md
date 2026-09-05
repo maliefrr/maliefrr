@@ -17,7 +17,6 @@ I'm a **Software Engineer** with experience building and maintaining production 
 * 🚀 Worked on **SEO and performance improvements**, including migrating selected pages to Astro
 * 🤖 Interested in **AI-powered applications** and experimenting with LLM integrations
 * 🎮 **Game developer as a hobby** and lead programmer for an indie/fan-made game project
-* 🌱 Currently exploring **TypeScript, Java, and backend engineering**
 * 🐧 Anime, Vtubers & video games enthusiast ❤️
 
 ## 🛠️ Languages & Technologies
