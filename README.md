@@ -3,14 +3,14 @@
 ## I'm Moh Alief Rizky Ramadhan
 
 <div align="center">
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGQ0dHExaXh5d3E4OGt3eTNxM3p1aWQ4bTE0aTU0ejM5YXk4ZDA3NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/sfEQeNSZWhMw5SnjoI/giphy.gif" alt="Sakura Miko Wave">
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGQ0dHExaXh5d3E4OGt3eTNxM3p1aWQ4bTE0aTU0ejM5YXk4ZDA3NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/sfEQeNSZWhMw5SnjoI/giphy.gif" alt="Sakur[...]">
 </div>
 
 ## 🚀 About Me
 
 I'm a **Software Engineer** with experience building and maintaining production web applications, integrating APIs, and developing full-stack applications.
 
-* 💻 Currently working as a **Frontend Developer**
+* 💻 Currently working as a **Fullstack Developer**
 * 🌐 Experienced in building production applications with **React, JavaScript, TypeScript, and Node.js**
 * 🔧 Experienced in **full-stack development**, including REST APIs, databases, authentication, and third-party integrations
 * 🧪 Interested in **testing, clean architecture, performance, and developer experience**
@@ -41,6 +41,7 @@ I'm a **Software Engineer** with experience building and maintaining production 
 <div align="center">
 
 <img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=fff&style=for-the-badge" alt="Node.js">
+<img src="https://img.shields.io/badge/Golang-00ADD8?logo=go&logoColor=fff&style=for-the-badge" alt="Golang">
 <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=for-the-badge" alt="Python">
 <img src="https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=fff&style=for-the-badge" alt="Express.js">
 <img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=fff&style=for-the-badge" alt="PostgreSQL">
